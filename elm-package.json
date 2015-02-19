@@ -1,0 +1,13 @@
+{
+    "version": "0.0.1",
+    "summary": "A barebones implementation of Minesweeper in Elm
+    "repository": "https://github.com/winitzki/elmsweeper.git",
+    "license": "MIT
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "1.1.0 <= v < 2.0.0"
+    }
+}
